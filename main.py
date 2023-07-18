@@ -10,4 +10,7 @@ with col2:
     """
     Campus x is a platform to learn data science. It offers one of the best courses with lots of hands-on projects.
     """
-
+st.header("Courses Offered")
+st.subheader("Data Science")
+st.subheader("Data Analysis")
+st.subheader("Data Engineering")
