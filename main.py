@@ -32,5 +32,5 @@ btn = st.sidebar.button('Select')
 if btn:
     st.title("Hello ", + option)
 
-st.title("Hello Teacher")
+
 
