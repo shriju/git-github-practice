@@ -1,0 +1,1 @@
+### In this Git project, I've learned how to use Git Bash terminal and connect it with Github. I learned commands such as git init, git status, git add, git commit, git log, git log --oneline, git log --oneline --graph,git branch, git merge branch, git checkout, git remote, git push etc.       
